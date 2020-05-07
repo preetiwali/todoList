@@ -1,0 +1,35 @@
+.listitem {
+    color: #ffffff;
+    width: 300px;
+    background-color: rgb(136, 57, 136);
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+.listitem p {
+    padding: 10px;
+    position: relative;
+}
+
+.listitem p span {
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+}
+
+.faicons {
+    margin: 0 5px;
+    font-size: 15px;
+}
+
+.listitem p input {
+    background-color: transparent;
+    font-size: 18px;
+    color: #ffffff;
+    border: 0;
+}
+
+.listitem p input:focus {
+    outline: none;
+}
