@@ -1,5 +1,8 @@
 # todoList
 
+The published to-do app:
+[link:https://preetiwali.github.io/todoList]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
